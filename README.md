@@ -22,6 +22,6 @@ How do rise and fall of interest rates affect the rental market?
 
 ### Outcome
 - 2023 Deliquency rate/foreclosure rate
-How do the historic deliquiency and foreclosure rates along with the different features predict the deliquency rates and property foreclosures for the next year by province and nation?
-Goal is determine if we see a rise in mortgage arrears this year due to a potential housing market crash?
+- How do the historic deliquiency and foreclosure rates along with the different features predict the deliquency rates and property foreclosures for the next year by province and nation?
+- Goal is determine if we see a rise in mortgage arrears this year due to a potential housing market crash?
 
