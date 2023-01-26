@@ -27,5 +27,5 @@ How do rise and fall of interest rates affect the rental market?
 
 ### ML models we could use
 - Random Forest: This is an ensemble learning method that uses multiple decision trees to improve the accuracy of predictions. Reason: It is known for its ability to handle high-dimensional data and is robust to outliers.
-- Logistic Regression: This is a simple yet powerful model that can handle binary classification problems, such as predicting delinquency rates.  It is also easy to interpret and can be used to identify the most important factors that influence the outcome.
+- Linear Regression: This is a simple yet powerful model that can predict if there is a linear relationship between the delinquency rates and the other features.  It is also easy to interpret and can be used to identify the most important factors that influence the outcome.
 - Neural Networks: This is a powerful model that can handle high dimensional data. It can be used to predict a wide range of outcomes, including delinquency rates. However, they are complex to interpret and can be time-consuming to train.
