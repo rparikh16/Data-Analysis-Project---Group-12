@@ -25,6 +25,9 @@ How do rise and fall of interest rates affect the rental market?
 - How do the historic deliquiency and foreclosure rates along with the different features predict the deliquency rates and property foreclosures for the next year by province and nation?
 - Goal is determine if we see a rise in mortgage arrears this year due to a potential housing market crash?
 
+![image](https://user-images.githubusercontent.com/112590378/214734313-eadf4aa4-89b7-4130-a549-8a03026493db.png)
+
+
 ### ML models we could use
 - Random Forest: This is an ensemble learning method that uses multiple decision trees to improve the accuracy of predictions. Reason: It is known for its ability to handle high-dimensional data and is robust to outliers.
 - Linear Regression: This is a simple yet powerful model that can predict if there is a linear relationship between the delinquency rates and the other features.  It is also easy to interpret and can be used to identify the most important factors that influence the outcome.
