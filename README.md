@@ -34,5 +34,23 @@ How do rise and fall of interest rates affect the rental market?
 - Linear Regression: This is a simple yet powerful model that can predict if there is a linear relationship between the delinquency rates and the other features.  It is also easy to interpret and can be used to identify the most important factors that influence the outcome.
 - Neural Networks: This is a powerful model that can handle high dimensional data. It can be used to predict a wide range of outcomes, including delinquency rates. However, they are complex to interpret and can be time-consuming to train.
 
-## Link to the Tableau dashboard
-https://public.tableau.com/app/profile/rushi.parikh6465/viz/Group12-DataAnalysisProject/Story1?publish=yes
+
+## Link to the Tableau dashboards
+https://public.tableau.com/app/profile/rushi.parikh6465/viz/FinalDashboard-Project/DeliquencyRateDashboard
+![Screen Shot 2023-02-08 at 2 10 21 PM](https://user-images.githubusercontent.com/111692952/217628558-4d942468-c1ec-49c9-b4b0-b488cf384d36.png)
+
+https://public.tableau.com/app/profile/rushi.parikh6465/viz/FinalDashboard-Project2/CanadaDashboard?publish=yes
+![Screen Shot 2023-02-08 at 2 11 02 PM](https://user-images.githubusercontent.com/111692952/217628611-e0132f25-3b74-49d9-9e5d-4dc2a3098cae.png)
+
+https://public.tableau.com/app/profile/rushi.parikh6465/viz/FinalDashboard-Project3/AlbertaVsBCDashboard?publish=yes
+![Screen Shot 2023-02-08 at 2 11 22 PM](https://user-images.githubusercontent.com/111692952/217628669-6c3457fb-9430-419e-8c4a-10965792d749.png)
+
+https://public.tableau.com/app/profile/rushi.parikh6465/viz/FinalDashboard-Project4/OntarioVsQuebecDashboard?publish=yes
+![Screen Shot 2023-02-08 at 2 11 39 PM](https://user-images.githubusercontent.com/111692952/217628731-3b2d1a04-dd31-45bf-90bb-079b7e547e02.png)
+
+
+
+
+
+
+
