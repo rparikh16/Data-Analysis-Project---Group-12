@@ -37,17 +37,21 @@ How do rise and fall of interest rates affect the rental market?
 
 ## Link to the Tableau dashboards
 https://public.tableau.com/app/profile/rushi.parikh6465/viz/FinalDashboard-Project/DeliquencyRateDashboard
+
 <img width="656" alt="Screen Shot 2023-02-08 at 2 18 04 PM" src="https://user-images.githubusercontent.com/111692952/217630012-1ac7d950-4743-4b63-a8b0-2f4069e42bd3.png">
 
 
 
 https://public.tableau.com/app/profile/rushi.parikh6465/viz/FinalDashboard-Project2/CanadaDashboard?publish=yes
+
 ![Screen Shot 2023-02-08 at 2 11 02 PM](https://user-images.githubusercontent.com/111692952/217628611-e0132f25-3b74-49d9-9e5d-4dc2a3098cae.png)
 
 https://public.tableau.com/app/profile/rushi.parikh6465/viz/FinalDashboard-Project3/AlbertaVsBCDashboard?publish=yes
+
 ![Screen Shot 2023-02-08 at 2 11 22 PM](https://user-images.githubusercontent.com/111692952/217628669-6c3457fb-9430-419e-8c4a-10965792d749.png)
 
 https://public.tableau.com/app/profile/rushi.parikh6465/viz/FinalDashboard-Project4/OntarioVsQuebecDashboard?publish=yes
+
 ![Screen Shot 2023-02-08 at 2 11 39 PM](https://user-images.githubusercontent.com/111692952/217628731-3b2d1a04-dd31-45bf-90bb-079b7e547e02.png)
 
 
