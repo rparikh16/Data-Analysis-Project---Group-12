@@ -1,34 +1,15 @@
-# Data-Analysis-Project---Group-12
+# Individual Self Assessment
 
-Questions
-What is the predicted delinquency rates of the current year for:
-Q1
-Q2
-Q3
-Q4
-How do the provincial average delinquency rates compare to the national average?
-Which province(s) and metropolitan areas have had the highest rates historically?
-How do the provincial average income rates compare with mortgage delinquency rates?
-How do rising interest rates and mortgage deliquiency rates affect the economy?
-How do rise and fall of interest rates affect the rental market?
+## Self Assessment
 
-### Inputs
-- Unemployment Rate
-- CPI Change
-- Labour Force Participation Rate
-- Delinquency Rates
-- Average New Mortgage Rates
-- Average Household Income
+At the start of the project, our group tended to work together in real-time and mostly brainstormed topics and searched for data on those topics. Afterwards, we all did our best to come up with ways in which to logically break up the work so that everyone could use their strongest skills for what they were assigned to do. I was mostly involvedf in the preprocessing of the data whereby i combined all of the datasets into a single table and file to get it ready for the machine learning component. I would say that our greatest challenge over the last three weeks was finding the time to get together to discuss the project on Zoom due to all of us having different schedules. In order to overcome that, we all agreed to meet up on the weekend.
 
-### Outcome
-- 2023 Deliquency rate/foreclosure rate
-- How do the historic deliquiency and foreclosure rates along with the different features predict the deliquency rates and property foreclosures for the next year by province and nation?
-- Goal is determine if we see a rise in mortgage arrears this year due to a potential housing market crash?
+As to how i contributed to the roles I didn't play, I would say that I mainly made myself available on Slack so that I was quick to respond when another group member had run into trouble. I found that I was very effectivbe when it came to searching for solutions when we had to look at other resources whenever someone had trouble with code or providing them with missing data.
 
-![image](https://user-images.githubusercontent.com/112590378/214734313-eadf4aa4-89b7-4130-a549-8a03026493db.png)
+## Project and Team Summary
 
+The project consisted of an investigation into possible predictors of mortgage delinquency rates in Canada and four major provinces - British Columbia, Alberta, Ontario, and Quebec. In a group of four, we took raw data pertaining to housing market indicators and processed it to look at the last ten years and performed a machine learning analysis to determine how each of them correlates to the published delinquency rates. 
 
-### ML models we could use
-- Random Forest: This is an ensemble learning method that uses multiple decision trees to improve the accuracy of predictions. Reason: It is known for its ability to handle high-dimensional data and is robust to outliers.
-- Linear Regression: This is a simple yet powerful model that can predict if there is a linear relationship between the delinquency rates and the other features.  It is also easy to interpret and can be used to identify the most important factors that influence the outcome.
-- Neural Networks: This is a powerful model that can handle high dimensional data. It can be used to predict a wide range of outcomes, including delinquency rates. However, they are complex to interpret and can be time-consuming to train.
+We used a combinationof Zoom and Slack to commuinicate, Although that went well enough, it could have gone more smoothly if we had schedule our meetings more firmly. This is very important going forward since so many people are working remotely. We divided the work up based on our strengths and we would advise a new cohort to do the same since it allows for the most productive sessions.
+
+For our machine learning model, we used linear regression and random forest regressor. We came to the conclusion that we needed to drop some features in order to make themodel more accurate and that our sample size is too small. Therefore, in order to improve the model in the future we would need better feature selection and encourage the collection of more comprehensive and accurate data. 
