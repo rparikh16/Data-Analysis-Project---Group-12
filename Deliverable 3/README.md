@@ -14,7 +14,7 @@ This information can be used to develop strategies to minimize the risk of delin
 Our group decided to conduct an experimental analysis to find out if there were other factors that impact mortgage delinquency(target). We considered 7 other factors(features) such as the mortgage arrears rate, real disposable income, labour force participation rate, real median household income, unemployment rate, consumer price index, and the average value of new loans. 
 
 # Data Sources: 
-We gathered our data from the CMHC website
+We gathered our data from the Canada Mortgage and Housing Corporation website
 https://www.cmhc-schl.gc.ca/en/professionals/housing-markets-data-and-research/housing-data/data-tables/mortgage-and-debt
 https://www.cmhc-schl.gc.ca/en/professionals/housing-markets-data-and-research/housing-data/data-tables/housing-market-indicators
 
@@ -30,16 +30,18 @@ We had two tables one containing the Mortgage information and the other related 
 Our preprocessing involved checking for null values in the data set, one of our tables had data in quarters and the other had annual data. So we first converted the quarterly data to an annual format and then began the rest of the steps. 
 Quarterly data
 ‘’’
-
+<img width="1395" alt="QuarterlyData" src="https://user-images.githubusercontent.com/111670866/217721148-e367f63b-015b-48b7-9644-3bc3a70be3d3.png">
 ‘’’
 Annual data
 ‘’’
+<img width="994" alt="AnnualData" src="https://user-images.githubusercontent.com/111670866/217721298-5df99f96-f09b-4fd5-9683-8aeed64d27ff.png">
 
 ‘’’
 
 Snapshot of the cleaned Mortgage data set
 
 ‘’’
+<img width="994" alt="MortgagesCleaned" src="https://user-images.githubusercontent.com/111670866/217721314-768e2705-17d3-43b7-a1ae-48dd81d09e6b.png">
 
 ‘’’
 
@@ -60,17 +62,10 @@ Consumer_Price_Index_Percent_Change    -0.162176
 Years    -0.239036
 Average_Value_New_Loans    -0.351025
 # Correlation Matrix
- ‘’’
 
+‘’’
 
-
-
-
-
-
-
-
-
+![CorrelationMatrix](https://user-images.githubusercontent.com/111670866/217721342-2d03acaa-da04-4ac6-b0f5-2ee3cc00591b.png)
 
 ‘’’
 
@@ -92,6 +87,7 @@ In this case, the "Residential_Mortgage_Arrears_Rates" column is found to have t
 # Snapshot of the scatterplot
 
 ‘’’
+<img width="1107" alt="Scatterplot_Median_income_CPI_mortgageDelinquency" src="https://user-images.githubusercontent.com/111670866/217721393-7b38d6e0-68ef-4546-a088-e2b0f8f4d5fd.png">
 
 ‘’’
 
@@ -118,6 +114,7 @@ These values give us an idea of how well our model is fitting the data. A low va
 Snapshot of the Linear Regression Analysis
 
 ‘’’
+<img width="906" alt="LR_Actual_Predicted" src="https://user-images.githubusercontent.com/111670866/217721423-97ced3c7-c3f3-4987-b0cf-cc209f18712c.png">
 
 ‘’’
 
@@ -126,10 +123,12 @@ Snapshot of the Linear Regression Analysis
 Snapshot of graphs showing feature importance and evaluation metrics of the ML models. 
 
 ‘’’
+<img width="906" alt="RFR_Actual_Predicted" src="https://user-images.githubusercontent.com/111670866/217721497-672a5777-b5db-4305-b203-c27c22120728.png">
 
 ‘’’
 
 ‘’’
+<img width="906" alt="RFR_ActualvsPredicted_AfterFeatureDropping" src="https://user-images.githubusercontent.com/111670866/217721518-485cfcf8-a256-4c0d-a4cd-b9a0146bec45.png">
 
 ‘’’
 # Limitations of the model
